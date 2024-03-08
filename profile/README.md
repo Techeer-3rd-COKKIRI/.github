@@ -4,8 +4,8 @@
 
 - **코끼리** = **코**딩은 우리**끼리**
 - 개발 관련 스터디를 모집하거나 참가할 수 있고, 각 스터디 페이지에서 스터디원이 공부한 내용을 공유할 수 있는 일종의 개발관련 SNS
-    
-    ![image](https://user-images.githubusercontent.com/108508730/218266829-5dbcf3f7-e2f1-4b86-9c6f-40a3c713bda9.png)
+  
+    ![image](https://github.com/Techeer-3rd-COKKIRI/.github/assets/108508730/04c2b9d7-c6b7-4eee-a018-a74070e20ae0)
     
 
 ---
